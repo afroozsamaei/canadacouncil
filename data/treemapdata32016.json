@@ -1,0 +1,2343 @@
+{
+    "name": "Total Investments",
+    "fullname": "Total Investments",
+    "size": 145728318,
+    "children": [
+        {
+            "name": "ON",
+            "fullname": "Ontario",
+            "size": 47904830,
+            "children": [
+                {
+                    "fullname": "Music",
+                    "name": "Music",
+                    "size": 10063568,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 8830585
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1232983
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Theatre",
+                    "name": "Theatre",
+                    "size": 8922980,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 8634380
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 288600
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Writing and Publishing",
+                    "name": "Writing",
+                    "size": 7830348,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 6372567
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1457781
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Visual Arts",
+                    "name": "Visual",
+                    "size": 6910300,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 4753150
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 2157150
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Dance",
+                    "name": "Dance",
+                    "size": 6158039,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 5857085
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 300954
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Media Arts",
+                    "name": "Media",
+                    "size": 4966669,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 2883793
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 2082876
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Audience & Market Development",
+                    "name": "Audience",
+                    "size": 1003521,
+                    "children": [
+                        
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 924996
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 78525
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Aboriginal Arts Office",
+                    "name": "Aborigin.",
+                    "size": 701050,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 610450
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 90600
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Equity Office",
+                    "name": "Equity",
+                    "size": 509505,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 257080
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 252425
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Inter-Arts Office",
+                    "name": "Inter-Art",
+                    "size": 404850,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 308400
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 96450
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Prizes Section",
+                    "name": "Prizes",
+                    "size": 349000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 321000
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 28000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Arts Granting Programs",
+                    "name": "Granting",
+                    "size": 85000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 85000
+                        }
+                     ]
+                }
+            ]
+        },
+        {
+            "name": "QC",
+            "fullname": "Quebec",
+            "size": 46983034,
+            "children": [
+                {
+                    "fullname": "Writing and Publishing",
+                    "name": "Writing",
+                    "size": 9333074,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 8220174
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1112900
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Theatre",
+                    "name": "Theatre",
+                    "size": 9048471,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 8834346
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 214125
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Music",
+                    "name": "Music",
+                    "size": 7668511,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 6685784
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 982727
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Dance",
+                    "name": "Dance",
+                    "size": 7113667,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 6615907
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 497760
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Visual Arts",
+                    "name": "Visual",
+                    "size": 5513550,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 4081200
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1432350
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Media Arts",
+                    "name": "Media",
+                    "size": 4767567,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 2983117
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1784450
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Inter-Arts Office",
+                    "name": "Inter-Art",
+                    "size": 1376222,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 1181900
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 194322
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Audience & Market Development",
+                    "name": "Audience",
+                    "size": 1282180,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 1217650
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 64530
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Prizes Section",
+                    "name": "Prizes",
+                    "size": 367000,
+                    "children": [
+                        
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 336000
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 31000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Equity Office",
+                    "name": "Equity",
+                    "size": 326842,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 197397
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 129445
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Aboriginal Arts Office",
+                    "name": "Aborigin.",
+                    "size": 185950,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 181950
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 4000
+                        }
+                     ]
+                }
+
+            ]
+        },
+        {
+            "name": "BC",
+            "fullname": "British Columbia",
+            "size": 21005298,
+            "children": [
+                {
+                    "fullname": "Music",
+                    "name": "Music",
+                    "size": 4642530,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 4241630
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 400900
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Visual Arts",
+                    "name": "Visual",
+                    "size": 3693850,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 2499550
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1194300
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Writing and Publishing",
+                    "name": "Writing",
+                    "size": 3351197,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 2363647
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 987550
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Theatre",
+                    "name": "Theatre",
+                    "size": 3077165,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 2916065
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 161100
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Dance",
+                    "name": "Dance",
+                    "size": 2795470,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 2496840
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 298630
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Media Arts",
+                    "name": "Media",
+                    "size": 1616048,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 1217448
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 398600
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Audience & Market Development",
+                    "name": "Audience",
+                    "size": 472618,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 457168
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 15450
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Inter-Arts Office",
+                    "name": "Inter-Art",
+                    "size": 454150,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 409500
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 44650
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Aboriginal Arts Office",
+                    "name": "Aborigin.",
+                    "size": 378800,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 353000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 25800
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Equity Office",
+                    "name": "Equity",
+                    "size": 373470,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 100000
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 181780
+                        }  
+                     ]
+                },
+                {
+                    "fullname": "Prizes Section",
+                    "name": "Prizes",
+                    "size": 150000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 100000
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 50000
+                        }
+                     ]
+                }
+
+            ]
+        },
+        {
+            "name": "AB",
+            "fullname": "Alberta",
+            "size": 8422657,
+            "children": [
+                 {
+                    "fullname": "Music",
+                    "name": "Music",
+                    "size": 2626543,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 2495643
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 130900
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Theatre",
+                    "name": "Theatre",
+                    "size": 2081175,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 2033200
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 47975
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Visual Arts",
+                    "name": "Visual",
+                    "size": 1366800,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 1057350
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 309450
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Dance",
+                    "name": "Dance",
+                    "size": 795985,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 739185
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 56800
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Writing and Publishing",
+                    "name": "Writing",
+                    "size": 630065,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 414565
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 215500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Media Arts",
+                    "name": "Media",
+                    "size": 532179,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 485679
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 46500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Inter-Arts Office",
+                    "name": "Inter-Art",
+                    "size": 114750,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 70500
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 44250
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Equity Office",
+                    "name": "Equity",
+                    "size": 98845,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 56145
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 42700
+                        }  
+                     ]
+                },              
+                {
+                    "fullname": "Aboriginal Arts Office",
+                    "name": "Aborigin.",
+                    "size": 96000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 90000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 6000
+                        }
+                     ]
+                },  
+                {
+                    "fullname": "Prizes Section",
+                    "name": "Prizes",
+                    "size": 42000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 37000
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 5000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Audience & Market Development",
+                    "name": "Audience",
+                    "size": 38315,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 27160
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 11155
+                        }
+                     ]
+                }
+
+            ]
+        },
+        {
+            "name": "MB",
+            "fullname": "Manitoba",
+            "size": 6433714,
+            "children": [
+                 {
+                    "fullname": "Music",
+                    "name": "Music",
+                    "size": 1584070,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 1449420
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 134650
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Dance",
+                    "name": "Dance",
+                    "size": 1250500,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 1226000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 24500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Theatre",
+                    "name": "Theatre",
+                    "size": 1007967,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 983467
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 24500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Visual Arts",
+                    "name": "Visual",
+                    "size": 838650,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 611150
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 227500
+                        }
+                     ]
+                }, 
+                {
+                    "fullname": "Writing and Publishing",
+                    "name": "Writing",
+                    "size": 792630,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 735630
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 57000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Media Arts",
+                    "name": "Media",
+                    "size": 668267,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 493767
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 174500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Aboriginal Arts Office",
+                    "name": "Aborigin.",
+                    "size": 116550,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 74550
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 42000
+                        }  
+                     ]
+                },
+                {
+                    "fullname": "Equity Office",
+                    "name": "Equity",
+                    "size": 80920,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 44600
+                        },  
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 36320
+                        }   
+                     ]
+                },      
+                {
+                    "fullname": "Prizes Section",
+                    "name": "Prizes",
+                    "size": 43000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 25000
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 18000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Audience & Market Development",
+                    "name": "Audience",
+                    "size": 30160,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 24310
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 5850
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Inter-Arts Office",
+                    "name": "Inter-Art",
+                    "size": 21000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 21000
+                        }
+                     ]
+                } 
+            ]
+        },
+        {
+            "name": "NS",
+            "fullname": "Nova Scotia",
+            "size": 4385797,
+            "children": [
+                {
+                    "fullname": "Theatre",
+                    "name": "Theatre",
+                    "size": 1104100,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 1072600
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 31500
+                        }
+                     ]
+                },
+                 {
+                    "fullname": "Music",
+                    "name": "Music",
+                    "size": 863938,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 846196
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 17742
+                        }
+                     ]
+                },
+                 {
+                    "fullname": "Writing and Publishing",
+                    "name": "Writing",
+                    "size": 690400,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 544400
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 146000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Visual Arts",
+                    "name": "Visual",
+                    "size": 645500,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 539700
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 105800
+                        }
+                     ]
+                }, 
+                {
+                    "fullname": "Media Arts",
+                    "name": "Media",
+                    "size": 630464,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 346964
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 283500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Dance",
+                    "name": "Dance",
+                    "size": 257565,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 212300
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 45265
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Aboriginal Arts Office",
+                    "name": "Aborigin.",
+                    "size": 91000,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 91000
+                        }  
+                     ]
+                }, 
+                {
+                    "fullname": "Audience & Market Development",
+                    "name": "Audience",
+                    "size": 48030,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 47080
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 950
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Inter-Arts Office",
+                    "name": "Inter-Art",
+                    "size": 40000,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 35000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 5000
+                        }
+                     ]
+                }, 
+                {
+                    "fullname": "Equity Office",
+                    "name": "Equity",
+                    "size": 11800,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 11800
+                        }   
+                     ]
+                },      
+                {
+                    "fullname": "Prizes Section",
+                    "name": "Prizes",
+                    "size": 3000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 3000
+                        }
+                     ]
+                }
+            
+            ]
+        },
+        {
+            "name": "SK",
+            "fullname": "Saskatchewan",
+            "size": 3369052,
+            "children": [
+                  {
+                    "fullname": "Visual Arts",
+                    "name": "Visual",
+                    "size": 1170900,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 964900
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 206000
+                        }
+                     ]
+                }, 
+                {
+                    "fullname": "Theatre",
+                    "name": "Theatre",
+                    "size": 786906,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 769906
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 17000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Writing and Publishing",
+                    "name": "Writing",
+                    "size": 482200,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 386700
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 95500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Media Arts",
+                    "name": "Media",
+                    "size": 379476,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 251476
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 128000
+                        }
+                     ]
+                },
+                 {
+                    "fullname": "Music",
+                    "name": "Music",
+                    "size": 326390,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 318290
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 8100
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Inter-Arts Office",
+                    "name": "Inter-Art",
+                    "size": 104500,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 103000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Aboriginal Arts Office",
+                    "name": "Aborigin.",
+                    "size": 81240,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 81240
+                        }  
+                     ]
+                },      
+                {
+                    "fullname": "Prizes Section",
+                    "name": "Prizes",
+                    "size": 27000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 27000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Audience & Market Development",
+                    "name": "Audience",
+                    "size": 7940,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 7240
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 700
+                        }
+                     ]
+                },       
+                {
+                    "fullname": "Equity Office",
+                    "name": "Equity",
+                    "size": 2500,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 2500
+                        }   
+                     ]
+                }
+            
+            ]
+        },
+        {
+            "name": "NB",
+            "fullname": "New Brunswick",
+            "size": 2098878,
+            "children": [
+                  {
+                    "fullname": "Visual Arts",
+                    "name": "Visual",
+                    "size": 566250,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 465150
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 101100
+                        }
+                     ]
+                }, 
+                {
+                    "fullname": "Theatre",
+                    "name": "Theatre",
+                    "size": 562310,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 532310
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 30000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Writing and Publishing",
+                    "name": "Writing",
+                    "size": 499100,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 420100
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 79000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Media Arts",
+                    "name": "Media",
+                    "size": 235099,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 150099
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 85000
+                        }
+                     ]
+                },
+                 {
+                    "fullname": "Music",
+                    "name": "Music",
+                    "size": 85044,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 74644
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 10400
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Dance",
+                    "name": "Dance",
+                    "size": 81000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 73000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 8000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Inter-Arts Office",
+                    "name": "Inter-Art",
+                    "size": 40750,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 20750
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 20000
+                        }    
+                     ]
+                },
+                {
+                    "fullname": "Equity Office",
+                    "name": "Equity",
+                    "size": 16500,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 16500
+                        }   
+                     ]
+                },
+                {
+                    "fullname": "Audience & Market Development",
+                    "name": "Audience",
+                    "size": 11825,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 11825
+                        }
+                     ]
+                },     
+                {
+                    "fullname": "Prizes Section",
+                    "name": "Prizes",
+                    "size": 1000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1000
+                        }
+                     ]
+                }
+            ]
+        },
+        {
+            "name": "Frgn",
+            "fullname": "Foreign",
+            "size": 1826270,
+            "children": [
+                 {
+                    "fullname": "Writing and Publishing",
+                    "name": "Writing",
+                    "size": 532600,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 352100
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 180500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Music",
+                    "name": "Music",
+                    "size": 348620,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 246220
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 102400
+                        }  
+                     ]
+                },
+                {
+                    "fullname": "Visual Arts",
+                    "name": "Visual",
+                    "size": 338250,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 248250
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 90000
+                        }  
+                     ]
+                }, 
+                {
+                    "fullname": "Media Arts",
+                    "name": "Media",
+                    "size": 302200,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 242200
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 60000
+                        }
+                        
+                     ]
+                },
+                 {
+                    "fullname": "Audience & Market Development",
+                    "name": "Audience",
+                    "size": 111070,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 109370
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1700
+                        }
+                     ]
+                }, 
+                 {
+                    "fullname": "Inter-Arts Office",
+                    "name": "Inter-Art",
+                    "size": 75200,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 75200
+                        }   
+                     ]
+                },
+                {
+                    "fullname": "Theatre",
+                    "name": "Theatre",
+                    "size": 63780,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 62030
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1750
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Prizes Section",
+                    "name": "Prizes",
+                    "size": 42000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 39000
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 3000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Equity Office",
+                    "name": "Equity",
+                    "size": 8700,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 8700
+                        }   
+                     ]
+                },      
+                {
+                    "fullname": "Dance",
+                    "name": "Dance",
+                    "size": 3850,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 3850
+                        }
+                     ]
+                }
+            ]
+        },
+        {
+            "name": "NL",
+            "fullname": "Newfoundland",
+            "size": 1601690,
+            "children": [
+                {
+                    "fullname": "Theatre",
+                    "name": "Theatre",
+                    "size": 516300,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 516300
+                        }
+                     ]
+                },
+                 {
+                    "fullname": "Writing and Publishing",
+                    "name": "Writing",
+                    "size": 321975,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 284475
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 37500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Media Arts",
+                    "name": "Media",
+                    "size": 208562,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 148562
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 60000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Visual Arts",
+                    "name": "Visual",
+                    "size": 202400,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 160900
+                        }, 
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 41500
+                        }   
+                     ]
+                }, 
+                {
+                    "fullname": "Music",
+                    "name": "Music",
+                    "size": 145142,
+                    "children": [
+                         {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 124757
+                        }, 
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 20385
+                        } 
+                     ]
+                },
+                {
+                    "fullname": "Dance",
+                    "name": "Dance",
+                    "size": 108000,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 61000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 47000
+                        }
+                     ]
+                }, 
+                {
+                    "fullname": "Inter-Arts Office",
+                    "name": "Inter-Art",
+                    "size": 45000,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 45000
+                        }  
+                     ]
+                },
+                {
+                    "fullname": "Equity Office",
+                    "name": "Equity",
+                    "size": 24300,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 24300
+                        }   
+                     ]
+                }, 
+                {
+                    "fullname": "Aboriginal Arts Office",
+                    "name": "Aborigin.",
+                    "size": 22700,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 22700
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Audience & Market Development",
+                    "name": "Audience",
+                    "size": 6811,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 6811
+                        }
+                     ]
+                }, 
+                {
+                    "fullname": "Prizes Section",
+                    "name": "Prizes",
+                    "size": 500,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 500
+                        }
+                     ]
+                }
+            ]
+        },
+        {
+            "name": "PE",
+            "fullname": "Prince Edward Island",
+            "size": 561274,
+            "children": [
+                 {
+                    "fullname": "Visual Arts",
+                    "name": "Visual",
+                    "size": 208000,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 208000
+                        }  
+                     ]
+                }, 
+                {
+                    "fullname": "Music",
+                    "name": "Music",
+                    "size": 90115,
+                    "children": [
+                         {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 56115
+                        }, 
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 34000
+                        } 
+                     ]
+                },
+                {
+                    "fullname": "Media Arts",
+                    "name": "Media",
+                    "size": 79669,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 79669
+                        }
+                     ]
+                },
+                 {
+                    "fullname": "Dance",
+                    "name": "Dance",
+                    "size": 62000,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 40000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 22000
+                        }
+                     ]
+                }, 
+                {
+                    "fullname": "Writing and Publishing",
+                    "name": "Writing",
+                    "size": 48400,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 45900
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 2500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Audience & Market Development",
+                    "name": "Audience",
+                    "size": 39090,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 36845
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 2245
+                        }
+                     ]
+                }, 
+                {
+                    "fullname": "Theatre",
+                    "name": "Theatre",
+                    "size": 19000,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 19000
+                        }
+                     ]
+                },    
+                {
+                    "fullname": "Inter-Arts Office",
+                    "name": "Inter-Art",
+                    "size": 15000,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 15000
+                        }  
+                     ]
+                }
+            ]
+        },
+         {
+            "name": "NU",
+            "fullname": "Nunavut",
+            "size": 516290,
+            "children": [
+                {
+                    "fullname": "Aboriginal Arts Office",
+                    "name": "Aborigin.",
+                    "size": 298000,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 298000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Inter-Arts Office",
+                    "name": "Inter-Art",
+                    "size": 70000,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 70000
+                        }  
+                     ]
+                },
+                {
+                    "fullname": "Media Arts",
+                    "name": "Media",
+                    "size": 66500,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 65000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1500
+                        } 
+                     ]
+                },
+                {
+                    "fullname": "Writing and Publishing",
+                    "name": "Writing",
+                    "size": 55400,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 55400
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Audience & Market Development",
+                    "name": "Audience",
+                    "size": 18890,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 18890
+                        }
+                     ]
+                }, 
+                {
+                    "fullname": "Music",
+                    "name": "Music",
+                    "size": 7500,
+                    "children": [
+                         {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 7500
+                        } 
+                     ]
+                }
+            ]
+        },
+        {
+            "name": "YT",
+            "fullname": "Yukon",
+            "size": 420800,
+            "children": [
+                {
+                    "fullname": "Media Arts",
+                    "name": "Media",
+                    "size": 101400,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 98900
+                        }, 
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 2500
+                        } 
+                     ]
+                },
+                {
+                    "fullname": "Theatre",
+                    "name": "Theatre",
+                    "size": 92155,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 92155
+                        }
+                     ]
+                },
+                 {
+                    "fullname": "Visual Arts",
+                    "name": "Visual",
+                    "size": 83000,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 83000
+                        }  
+                     ]
+                }, 
+                 {
+                    "fullname": "Audience & Market Development",
+                    "name": "Audience",
+                    "size": 51845,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 44245
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 7600
+                        }
+                     ]
+                },
+                 {
+                    "fullname": "Writing and Publishing",
+                    "name": "Writing",
+                    "size": 39600,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 31500
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 8100
+                        } 
+                     ]
+                },
+                {
+                    "fullname": "Music",
+                    "name": "Music",
+                    "size": 30000,
+                    "children": [
+                         {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 18000
+                        }, 
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 12000
+                        } 
+                     ]
+                },
+                 {
+                    "fullname": "Aboriginal Arts Office",
+                    "name": "Aborigin.",
+                    "size": 20000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 20000
+                        }
+                     ]
+                },
+                 {
+                    "fullname": "Dance",
+                    "name": "Dance",
+                    "size": 1800,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1800
+                        }
+                     ]
+                }, 
+               {
+                    "fullname": "Prizes Section",
+                    "name": "Prizes",
+                    "size": 1000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1000
+                        }
+                     ]
+                }
+            ]
+        },
+         {
+            "name": "NT",
+            "fullname": "Northwest Territories",
+            "size": 198734,
+            "children": [
+                 {
+                    "fullname": "Aboriginal Arts Office",
+                    "name": "Aborigin.",
+                    "size": 104000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 74000
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 30000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Media Arts",
+                    "name": "Media",
+                    "size": 38159,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 38159
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Inter-Arts Office",
+                    "name": "Inter-Art",
+                    "size": 25000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 25000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Writing and Publishing",
+                    "name": "Writing",
+                    "size": 20700,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 13700
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 7000
+                        } 
+                     ]
+                },
+                 {
+                    "fullname": "Audience & Market Development",
+                    "name": "Audience",
+                    "size": 4345,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 4345
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Equity Office",
+                    "name": "Equity",
+                    "size": 4130,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 4130
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Music",
+                    "name": "Music",
+                    "size": 2400,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 2400
+                        } 
+                     ]
+                }
+            ]
+        }
+  ]
+
+}

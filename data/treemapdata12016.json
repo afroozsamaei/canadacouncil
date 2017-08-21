@@ -1,0 +1,1398 @@
+{
+    "name": "Total Investments",
+    "fullname": "Total Investments",
+    "size": 145728318,
+    "children": [
+        {
+            "name": "Indiv.",
+            "fullname": "Individuals",
+            "size": 23694240,
+            "children": [
+                {
+                    "fullname": "Visual Arts",
+                    "name": "Visual",
+                    "size": 6023400,
+                    "children": [
+
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 2157150
+                        },
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 1432350
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 1194300
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 309450
+                        },
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 248250
+                        },
+
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 227500
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 206000
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 105800
+                        },
+                        {
+                            "fullname": "New Brunswick",
+                            "name": "NB",
+                            "size": 101100
+                        },
+                        {
+                            "fullname": "Newfoundland",
+                            "name": "NL",
+                            "size": 41500
+                        }
+     ]
+    },
+                {
+                    "name": "Media",
+                    "fullname": "Media Arts",
+                    "size": 5289626,
+                    "children": [
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 2082876
+                        },
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 1784450
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 398600
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 283500
+                        },
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 242200
+                        },
+
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 174500
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 128000
+                        },
+                        {
+                            "fullname": "New Brunswick",
+                            "name": "NB",
+                            "size": 85000
+                        },
+                        {
+                            "fullname": "Newfoundland",
+                            "name": "NL",
+                            "size": 60000
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 46500
+                        },
+                        {
+                            "fullname": "Yukon",
+                            "name": "YT",
+                            "size": 2500
+                        },
+                        {
+                            "fullname": "Nunavut",
+                            "name": "NU",
+                            "size": 1500
+                        }
+     ]
+    },
+                {
+                    "fullname": "Writing and Publishing",
+                    "name": "Writing",
+                    "size": 4410231,
+                    "children": [
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 1457781
+                        },
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 1112900
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 987550
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 215500
+                        },
+
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 180500
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 146000
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 95500
+                        },
+                        {
+                            "fullname": "New Brunswick",
+                            "name": "NB",
+                            "size": 79000
+                        },
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 57000
+                        },
+
+                        {
+                            "fullname": "Newfoundland",
+                            "name": "NL",
+                            "size": 37500
+                        },
+                        {
+                            "fullname": "Yukon",
+                            "name": "YT",
+                            "size": 31500
+                        },
+                        {
+                            "fullname": "Northwest Territories",
+                            "name": "NT",
+                            "size": 7000
+                        },
+                        {
+                            "fullname": "Prince Edward Island",
+                            "name": "PE",
+                            "size": 2500
+                        }
+     ]
+    },
+                {
+                    "name": "Music",
+                    "fullname": "Music",
+                    "size": 3233407,
+                    "children": [
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 1232983
+                        },
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 982727
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 400900
+                        },
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 246220
+                        },
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 134650
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 130900
+                        },
+                        {
+                            "fullname": "Prince Edward Island",
+                            "name": "PE",
+                            "size": 34000
+                        },
+                        {
+                            "fullname": "Newfoundland",
+                            "name": "NL",
+                            "size": 20385
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 17742
+                        },
+                        {
+                            "fullname": "Yukon",
+                            "name": "YT",
+                            "size": 12000
+                        },
+                        {
+                            "fullname": "New Brunswick",
+                            "name": "NB",
+                            "size": 10400
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 8100
+                        },
+                        {
+                            "fullname": "Northwest Territories",
+                            "name": "NT",
+                            "size": 2400
+                        }
+     ]
+    },
+                {
+                    "name": "Dance",
+                    "fullname": "Dance",
+                    "size": 1306559,
+                    "children": [
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 497760
+                        },
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 300954
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 298630
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 56800
+                        },
+                        {
+                            "fullname": "Northwest Territories",
+                            "name": "NT",
+                            "size": 47000
+                        },
+                        {
+                            "fullname": "Nunavut",
+                            "name": "NU",
+                            "size": 45265
+                        },
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 24500
+                        },
+                        {
+                            "fullname": "Prince Edward Island",
+                            "name": "PE",
+                            "size": 22000
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 8000
+                        },
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 3850
+                        },
+                        {
+                            "fullname": "Yukon",
+                            "name": "YT",
+                            "size": 1800
+                        }
+     ]
+    },
+                {
+                    "name": "Prizes",
+                    "fullname": "Prizes Section",
+                    "size": 890500,
+                    "children": [
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 336000
+                        },
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 321000
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 100000
+                        },
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 39000
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 37000
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 27000
+                        },
+
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 25000
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 3000
+                        },
+                        {
+                            "fullname": "New Brunswick",
+                            "name": "NB",
+                            "size": 1000
+                        },
+                        {
+                            "fullname": "Yukon",
+                            "name": "YT",
+                            "size": 1000
+                        },
+                        {
+                            "fullname": "Newfoundland",
+                            "name": "NL",
+                            "size": 500
+                        }
+     ]
+    },
+                {
+                    "name": "Theatre",
+                    "fullname": "Theatre",
+                    "size": 816550,
+                    "children": [
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 288600
+                        },
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 214125
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 161100
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 47975
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 31500
+                        },
+                        {
+                            "fullname": "New Brunswick",
+                            "name": "NB",
+                            "size": 30000
+                        },
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 24500
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 17000
+                        },
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 1750
+                        }
+     ]
+    },
+                {
+                    "fullname": "Equity Office",
+                    "name": "Equity",
+                    "size": 733955,
+                    "children": [
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 252425
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 191690
+                        },
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 129445
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 56145
+                        },
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 36320
+                        },
+                        {
+                            "fullname": "Newfoundland",
+                            "name": "NL",
+                            "size": 24300
+                        },
+                        {
+                            "fullname": "Nunavut",
+                            "name": "NU",
+                            "size": 18890
+                        },
+                        {
+                            "fullname": "New Brunswick",
+                            "name": "NB",
+                            "size": 16500
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 11800
+                        },
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 8700
+                        },
+                        {
+                            "fullname": "Yukon",
+                            "name": "YT",
+                            "size": 7600
+                        },
+                        {
+                            "fullname": "Northwest Territories",
+                            "name": "NT",
+                            "size": 4130
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 2500
+                        }
+
+     ]
+    },
+                {
+                    "fullname": "Inter-Arts Office",
+                    "name": "Inter-Art",
+                    "size": 503122,
+                    "children": [
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 194322
+                        },
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 96450
+                        },
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 75200
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 44650
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 44250
+                        },
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 21000
+                        },
+                        {
+                            "fullname": "New Brunswick",
+                            "name": "NB",
+                            "size": 20750
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 5000
+                        },
+
+                        {
+                            "fullname": "Prince Edward Island",
+                            "name": "PE",
+                            "size": 2245
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 1500
+                        }
+     ]
+    },
+                {
+                    "name": "Aborigin.",
+                    "fullname": "Aboriginal Arts Office",
+                    "size": 274950,
+                    "children": [
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 90600
+                        },
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 74550
+                        },
+                        {
+                            "fullname": "Northwest Territories",
+                            "name": "NT",
+                            "size": 74000
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 25800
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 6000
+                        },
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 4000
+                        }
+     ]
+    },
+                {
+                    "fullname": "Audience & Market Development",
+                    "name": "Audience",
+                    "size": 211940,
+                    "children": [
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 78525
+                        },
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 64530
+                        },
+                        {
+                            "fullname": "Nunavut",
+                            "name": "NU",
+                            "size": 18890
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 15450
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 11155
+                        },
+                        {
+                            "fullname": "Yukon",
+                            "name": "YT",
+                            "size": 7600
+                        },
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 5850
+                        },
+                        {
+                            "fullname": "Northwest Territories",
+                            "name": "NT",
+                            "size": 4345
+                        },
+                        {
+                            "fullname": "Prince Edward Island",
+                            "name": "PE",
+                            "size": 2245
+                        },
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 1700
+                        },
+
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 950
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 700
+                        }
+
+     ]
+    }
+]
+},
+        {
+            "fullname": "Organizations",
+            "name": "Orgs.",
+            "size": 122034078,
+            "children": [
+                {
+                    "name": "Theatre",
+                    "fullname": "Theatre",
+                    "size": 26465759,
+                    "children": [
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 8834346
+                        },
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 8634380
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 2916065
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 2033200
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 1072600
+                        },
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 983467
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 769906
+                        },
+                        {
+                            "fullname": "New Brunswick",
+                            "name": "NB",
+                            "size": 532310
+                        },
+                        {
+                            "fullname": "Newfoundland",
+                            "name": "NL",
+                            "size": 516300
+                        },
+                        {
+                            "fullname": "Yukon",
+                            "name": "YT",
+                            "size": 92155
+                        },
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 62030
+                        },
+                        {
+                            "fullname": "Prince Edward Island",
+                            "name": "PE",
+                            "size": 19000
+                        }
+     ]
+    },
+                {
+                    "name": "Music",
+                    "fullname": "Music",
+                    "size": 25250964,
+                    "children": [
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 8830585
+                        },
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 6685784
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 4241630
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 2495643
+                        },
+
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 1449420
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 846196
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 318290
+                        },
+                        {
+                            "fullname": "Newfoundland",
+                            "name": "NL",
+                            "size": 124757
+                        },
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 102400
+                        },
+                        {
+                            "fullname": "New Brunswick",
+                            "name": "NB",
+                            "size": 74644
+                        },
+                        {
+                            "fullname": "Prince Edward Island",
+                            "name": "PE",
+                            "size": 56115
+                        },
+                        {
+                            "fullname": "Yukon",
+                            "name": "YT",
+                            "size": 18000
+                        },
+                        {
+                            "fullname": "Nunavut",
+                            "name": "NU",
+                            "size": 7500
+                        }
+     ]
+    },
+                {
+                    "fullname": "Writing and Publishing",
+                    "name": "Writing",
+                    "size": 20217458,
+                    "children": [
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 8220174
+                        },
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 6372567
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 2363647
+                        },
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 735630
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 544400
+                        },
+                        {
+                            "fullname": "New Brunswick",
+                            "name": "NB",
+                            "size": 420100
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 414565
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 386700
+                        },
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 352100
+                        },
+                        {
+                            "fullname": "Newfoundland",
+                            "name": "NL",
+                            "size": 284475
+                        },
+                        {
+                            "fullname": "Nunavut",
+                            "name": "NU",
+                            "size": 55400
+                        },
+                        {
+                            "fullname": "Prince Edward Island",
+                            "name": "PE",
+                            "size": 45900
+                        },
+                        {
+                            "fullname": "Northwest Territories",
+                            "name": "NT",
+                            "size": 13700
+                        },
+                        {
+                            "fullname": "Yukon",
+                            "name": "YT",
+                            "size": 8100
+                        }
+
+     ]
+    },
+                {
+                    "fullname": "Dance",
+                    "name": "Dance",
+                    "size": 17321317,
+                    "children": [
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 6615907
+                        },
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 5857085
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 2496840
+                        },
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 1226000
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 739185
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 212300
+                        },
+                        {
+                            "fullname": "New Brunswick",
+                            "name": "NB",
+                            "size": 73000
+                        },
+                        {
+                            "fullname": "Newfoundland",
+                            "name": "NL",
+                            "size": 61000
+                        },
+                        {
+                            "fullname": "Prince Edward Island",
+                            "name": "PE",
+                            "size": 40000
+                        }
+     ]
+    },
+                {
+                    "fullname": "Visual Arts",
+                    "name": "Visual",
+                    "size": 15514050,
+                    "children": [
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 4753150
+                        },
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 4081200
+                        },
+
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 2499550
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 1057350
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 964900
+                        },
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 611150
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 539700
+                        },
+                        {
+                            "fullname": "New Brunswick",
+                            "name": "NB",
+                            "size": 465150
+                        },
+                        {
+                            "fullname": "Prince Edward Island",
+                            "name": "PE",
+                            "size": 208000
+                        },
+                        {
+                            "fullname": "Newfoundland",
+                            "name": "NL",
+                            "size": 160900
+                        },
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 90000
+                        },
+                        {
+                            "fullname": "Yukon",
+                            "name": "YT",
+                            "size": 83000
+                        }
+     ]
+    },
+                {
+                    "fullname": "Media Arts",
+                    "name": "Media",
+                    "size": 9302633,
+                    "children": [
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 2983117
+                        },
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 2883793
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 1217448
+                        },
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 493767
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 485679
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 346964
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 251476
+                        },
+                        {
+                            "fullname": "New Brunswick",
+                            "name": "NB",
+                            "size": 150099
+                        },
+                        {
+                            "fullname": "Newfoundland",
+                            "name": "NL",
+                            "size": 148562
+                        },
+                        {
+                            "fullname": "Yukon",
+                            "name": "YT",
+                            "size": 98900
+                        },
+                        {
+                            "fullname": "Prince Edward Island",
+                            "name": "PE",
+                            "size": 79669
+                        },
+                        {
+                            "fullname": "Nunavut",
+                            "name": "NU",
+                            "size": 65000
+                        },
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 60000
+                        },
+                        {
+                            "fullname": "Northwest Territories",
+                            "name": "NT",
+                            "size": 38159
+                        }
+     ]
+    },
+                {
+                    "fullname": "Audience & Market Development",
+                    "name": "Audience",
+                    "size": 2914700,
+                    "children": [
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 1217650
+                        },
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 924996
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 457168
+                        },
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 109370
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 47080
+                        },
+                        {
+                            "fullname": "Yukon",
+                            "name": "YT",
+                            "size": 44245
+                        },
+                        {
+                            "fullname": "Prince Edward Island",
+                            "name": "PE",
+                            "size": 36845
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 27160
+                        },
+
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 24310
+                        },
+                        {
+                            "fullname": "New Brunswick",
+                            "name": "NB",
+                            "size": 11825
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 7240
+                        },
+                        {
+                            "fullname": "Newfoundland",
+                            "name": "NL",
+                            "size": 6811
+                        }
+     ]
+    },
+                {
+                    "fullname": "Inter-Arts Office",
+                    "name": "Inter-Art",
+                    "size": 2283300,
+                    "children": [
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 1181900
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 409500
+                        },
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 308400
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 103000
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 70500
+                        },
+                        {
+                            "fullname": "Nunavut",
+                            "name": "NU",
+                            "size": 70000
+                        },
+                        {
+                            "fullname": "Newfoundland",
+                            "name": "NL",
+                            "size": 45000
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 35000
+                        },
+                        {
+                            "fullname": "Northwest Territories",
+                            "name": "NT",
+                            "size": 25000
+                        },
+
+                        {
+                            "fullname": "New Brunswick",
+                            "name": "NB",
+                            "size": 20000
+                        },
+                        {
+                            "fullname": "Prince Edward Island",
+                            "name": "PE",
+                            "size": 15000
+                        }
+     ]
+    },
+                {
+                    "fullname": "Aboriginal Arts Office",
+                    "name": "Aborigin.",
+                    "size": 1820340,
+                    "children": [
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 610450
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 353000
+                        },
+                        {
+                            "fullname": "Nunavut",
+                            "name": "NU",
+                            "size": 298000
+                        },
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 181950
+                        },
+                        {
+                            "fullname": "Nova Scotia",
+                            "name": "NS",
+                            "size": 91000
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 90000
+                        },
+                        {
+                            "fullname": "Saskatchewan",
+                            "name": "SK",
+                            "size": 81240
+                        },
+
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 42000
+                        },
+                        {
+                            "fullname": "Northwest Territories",
+                            "name": "NT",
+                            "size": 30000
+                        },
+                        {
+                            "fullname": "Newfoundland",
+                            "name": "NL",
+                            "size": 22700
+                        },
+                        {
+                            "fullname": "Yukon",
+                            "name": "YT",
+                            "size": 20000
+                        }
+     ]
+    },
+                {
+                    "fullname": "Equity Office",
+                    "name": "Equity",
+                    "size": 723557,
+                    "children": [
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 257080
+                        },
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 197397
+                        },
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 181780
+                        },
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 44600
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 42700
+                        }
+     ]
+    },
+                {
+                    "fullname": "Prizes Section",
+                    "name": "Prizes",
+                    "size": 135000,
+                    "children": [
+                        {
+                            "fullname": "British Columbia",
+                            "name": "BC",
+                            "size": 50000
+                        },
+                        {
+                            "fullname": "Quebec",
+                            "name": "QC",
+                            "size": 31000
+                        },
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 28000
+                        },
+                        {
+                            "fullname": "Manitoba",
+                            "name": "MB",
+                            "size": 18000
+                        },
+                        {
+                            "fullname": "Alberta",
+                            "name": "AB",
+                            "size": 5000
+                        },
+                        {
+                            "fullname": "Foreign",
+                            "name": "Frgn",
+                            "size": 3000
+                        }
+     ]
+    },
+                {
+                    "fullname": "Arts Granting Program",
+                    "name": "Granting",
+                    "size": 85000,
+                    "children": [
+                        {
+                            "fullname": "Ontario",
+                            "name": "ON",
+                            "size": 85000
+                        }
+     ]
+     }
+   ]
+ }
+]
+}

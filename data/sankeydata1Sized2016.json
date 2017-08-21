@@ -1,0 +1,996 @@
+{
+    "nodes": [
+        {
+            "name": "Total Investment",
+            "fullname": "Total Investment",
+            "id": "Total",
+            "column": "1"
+        },
+        {
+            "name": "Organisations",
+            "fullname": "Organisations",
+            "id": "Organisation",
+            "column": "2"
+        },
+        {
+            "name": "Individuals",
+            "fullname": "Individuals",
+            "id": "Individual",
+            "column": "2"
+        },
+        {
+            "name": "Music",
+            "fullname": "Music",
+            "id": "section_Music",
+            "column": "3"
+        },
+        {
+            "name": "Theatre",
+            "fullname": "Theatre",
+            "id": "section_Theatre",
+            "column": "3"
+        },
+        {
+            "name": "Writing and Publishing",
+            "fullname": "Writing and Publishing",
+            "id": "section_Writing",
+            "column": "3"
+        },
+        {
+            "name": "Visual Arts",
+            "fullname": "Visual Arts",
+            "id": "section_Visual",
+            "column": "3"
+        },
+        {
+            "name": "Dance",
+            "fullname": "Dance",
+            "id": "section_Dance",
+            "column": "3"
+        },
+        {
+            "name": "Media Arts",
+            "fullname": "Media Arts",
+            "id": "section_Media",
+            "column": "3"
+        },
+        {
+            "name": "Audience and Market Development",
+            "fullname": "Audience and Market Development",
+            "id": "section_Development",
+            "column": "3"
+        },
+        {
+            "name": "Inter-Arts Office",
+            "fullname": "Inter-Arts Office",
+            "id": "section_InterArts",
+            "column": "3"
+        },
+        {
+            "name": "Aboriginal Arts Office",
+            "fullname": "Aboriginal Arts Office",
+            "id": "section_aboriginal",
+            "column": "3"
+        },
+        {
+            "name": "Equity Office",
+            "fullname": "Equity Office",
+            "id": "section_Equity",
+            "column": "3"
+        },
+        {
+            "name": "Prizes Section",
+            "fullname": "Prizes Section",
+            "id": "section_Prizes",
+            "column": "3"
+        },
+        {
+            "name": "Arts Granting Programs",
+            "fullname": "Arts Granting Programs",
+            "id": "section_Arts",
+            "column": "3"
+        },
+        {
+            "name": "ON",
+            "fullname": "Ontario",
+            "id": "province_ON",
+            "column": "4"
+        },
+        {
+            "name": "QC",
+            "fullname": "Quebec",
+            "id": "province_QC",
+            "column": "4"
+        },
+        {
+            "name": "BC",
+            "fullname": "British Columbia",
+            "id": "province_BC",
+            "column": "4"
+        },
+        {
+            "name": "AB",
+            "fullname": "Alberta",
+            "id": "province_AB",
+            "column": "4"
+        }, 
+        {
+            "name": "MB",
+            "fullname": "Manitoba",
+            "id": "province_MB",
+            "column": "4"
+        },
+        {
+            "name": "NS",
+            "fullname": "Nova Scotia",
+            "id": "province_NS",
+            "column": "4"
+        },
+        {
+            "name": "SK",
+            "fullname": "Saskatchewan",
+            "id": "province_SK",
+            "column": "4"
+        },
+        {
+            "name": "NB",
+            "fullname": "New Brunswick",
+            "id": "province_NB",
+            "column": "4"
+        },
+        {
+            "name": "Foreign",
+            "fullname": "Foreign Countries",
+            "id": "province_Foreign",
+            "column": "4"
+        },
+        {
+            "name": "NL",
+            "fullname": "Newfoundland",
+            "id": "province_NL",
+            "column": "4"
+        },
+        {
+            "name": "PE",
+            "fullname": "Prince Edward Island",
+            "id": "province_PE",
+            "column": "4"
+        },
+        {
+            "name": "NU",
+            "fullname": "Nunavut",
+            "id": "province_NU",
+            "column": "4"
+        },
+        {
+            "name": "YT",
+            "fullname": "Yukon",
+            "id": "province_YT",
+            "column": "4"
+        },
+        {
+            "name": "NT",
+            "fullname": "Northwest Territories",
+            "id": "province_NT",
+            "column": "4"
+        }   
+],
+
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "value": 122034078  
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 23694240
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 25250964
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 26465759
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 20217458
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "value": 15514050
+        },
+        {
+            "source": 1,
+            "target": 7,
+            "value": 17321317
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "value": 9302633
+        },
+        {
+            "source": 1,
+            "target": 9,
+            "value": 2914700
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "value": 2283300
+        },
+        {
+            "source": 1,
+            "target": 11,
+            "value": 1820340
+        },
+        {
+            "source": 1,
+            "target": 12,
+            "value": 723557
+        },
+        {
+            "source": 1,
+            "target": 13,
+            "value": 135000
+        },
+        {
+            "source": 1,
+            "target": 14,
+            "value": 85000
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 3233407
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 816550
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "value": 4410231
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "value": 6023400
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "value": 1306559
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "value": 5289626
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "value": 211940
+        },
+        {
+            "source": 2,
+            "target": 10,
+            "value": 503122
+        },
+        {
+            "source": 2,
+            "target": 11,
+            "value": 274950
+        },
+        {
+            "source": 2,
+            "target": 12,
+            "value": 733955
+        },
+        {
+            "source": 2,
+            "target": 13,
+            "value": 890500
+        },
+        {
+            "source": 3,
+            "target": 15,
+            "value": 10063568
+        },
+        {
+            "source": 3,
+            "target": 16,
+            "value": 7668511
+        },
+        {
+            "source": 3,
+            "target": 17,
+            "value": 4642530
+        },
+        {
+            "source": 3,
+            "target": 18,
+            "value": 2626543
+        },
+        {
+            "source": 3,
+            "target": 19,
+            "value": 1584070
+        },
+        {
+            "source": 3,
+            "target": 20,
+            "value": 863938
+        },
+        {
+            "source": 3,
+            "target": 21,
+            "value": 326390
+        },
+        {
+            "source": 3,
+            "target": 22,
+            "value": 85044
+        },
+        {
+            "source": 3,
+            "target": 23,
+            "value": 348620
+        },
+        {
+            "source": 3,
+            "target": 24,
+            "value": 145142
+        },
+        {
+            "source": 3,
+            "target": 25,
+            "value": 90115
+        },
+        {
+            "source": 3,
+            "target": 26,
+            "value": 7500
+        },
+        {
+            "source": 3,
+            "target": 27,
+            "value": 30000
+        },
+        {
+            "source": 3,
+            "target": 28,
+            "value": 2400
+        },
+        {
+            "source": 4,
+            "target": 15,
+            "value": 8922980
+        },
+        {
+            "source": 4,
+            "target": 16,
+            "value": 9048471
+        },
+        {
+            "source": 4,
+            "target": 17,
+            "value": 3077165
+        },
+        {
+            "source": 4,
+            "target": 18,
+            "value": 2081175
+        },
+        {
+            "source": 4,
+            "target": 19,
+            "value": 1007967
+        },
+        {
+            "source": 4,
+            "target": 20,
+            "value": 1104100
+        },
+        {
+            "source": 4,
+            "target": 21,
+            "value": 786906
+        },
+        {
+            "source": 4,
+            "target": 22,
+            "value": 562310
+        },
+        {
+            "source": 4,
+            "target": 23,
+            "value": 63780
+        },
+        {
+            "source": 4,
+            "target": 24,
+            "value": 516300
+        },
+        {
+            "source": 4,
+            "target": 25,
+            "value": 19000
+        },
+        {
+            "source": 4,
+            "target": 27,
+            "value": 92155
+        },
+        {
+            "source": 5,
+            "target": 15,
+            "value": 7830348
+        },
+        {
+            "source": 5,
+            "target": 16,
+            "value": 9333074
+        },
+        {
+            "source": 5,
+            "target": 17,
+            "value": 3351197
+        },
+        {
+            "source": 5,
+            "target": 18,
+            "value": 630065
+        },
+        {
+            "source": 5,
+            "target": 19,
+            "value": 792630
+        },
+        {
+            "source": 5,
+            "target": 20,
+            "value": 690400
+        },
+        {
+            "source": 5,
+            "target": 21,
+            "value": 482200
+        },
+        {
+            "source": 5,
+            "target": 22,
+            "value": 499100
+        },
+        {
+            "source": 5,
+            "target": 23,
+            "value": 532600
+        },
+        {
+            "source": 5,
+            "target": 24,
+            "value": 321975
+        },
+        {
+            "source": 5,
+            "target": 25,
+            "value": 48400
+        },
+        {
+            "source": 5,
+            "target": 26,
+            "value": 55400
+        },
+        {
+            "source": 5,
+            "target": 27,
+            "value": 39600
+        },
+        {
+            "source": 5,
+            "target": 28,
+            "value": 20700
+        },
+        {
+            "source": 6,
+            "target": 15,
+            "value": 6910300
+        },
+        {
+            "source": 6,
+            "target": 16,
+            "value": 5513550
+        },
+        {
+            "source": 6,
+            "target": 17,
+            "value": 3693850
+        },
+        {
+            "source": 6,
+            "target": 18,
+            "value": 1366800
+        },
+        {
+            "source": 6,
+            "target": 19,
+            "value": 838650
+        },
+        {
+            "source": 6,
+            "target": 20,
+            "value": 645500
+        },
+        {
+            "source": 6,
+            "target": 21,
+            "value": 1170900
+        },
+        {
+            "source": 6,
+            "target": 22,
+            "value": 566250
+        },
+        {
+            "source": 6,
+            "target": 23,
+            "value": 338250
+        },
+        {
+            "source": 6,
+            "target": 24,
+            "value": 202400
+        },
+        {
+            "source": 6,
+            "target": 25,
+            "value": 208000
+        },
+        {
+            "source": 6,
+            "target": 27,
+            "value": 83000
+        },
+        {
+            "source": 7,
+            "target": 15,
+            "value": 6158039
+        },
+        {
+            "source": 7,
+            "target": 16,
+            "value": 7113667
+        },
+        {
+            "source": 7,
+            "target": 17,
+            "value": 2795470
+        },
+        {
+            "source": 7,
+            "target": 18,
+            "value": 795985
+        },
+        {
+            "source": 7,
+            "target": 19,
+            "value": 1250500
+        },
+        {
+            "source": 7,
+            "target": 20,
+            "value": 257565
+        },
+        {
+            "source": 7,
+            "target": 22,
+            "value": 81000
+        },
+        {
+            "source": 7,
+            "target": 23,
+            "value": 3850
+        },
+        {
+            "source": 7,
+            "target": 24,
+            "value": 108000
+        },
+        {
+            "source": 7,
+            "target": 25,
+            "value": 62000
+        },
+        {
+            "source": 7,
+            "target": 27,
+            "value": 1800
+        },
+        {
+            "source": 8,
+            "target": 15,
+            "value": 4966669
+        },
+        {
+            "source": 8,
+            "target": 16,
+            "value": 4767567
+        },
+        {
+            "source": 8,
+            "target": 17,
+            "value": 1616048
+        },
+        {
+            "source": 8,
+            "target": 18,
+            "value": 532179
+        },
+        {
+            "source": 8,
+            "target": 19,
+            "value": 668267
+        },
+        {
+            "source": 8,
+            "target": 20,
+            "value": 630464
+        },
+        {
+            "source": 8,
+            "target": 21,
+            "value": 379476
+        },
+        {
+            "source": 8,
+            "target": 22,
+            "value": 235099
+        },
+        {
+            "source": 8,
+            "target": 23,
+            "value": 302200
+        },
+        {
+            "source": 8,
+            "target": 24,
+            "value": 208562
+        },
+        {
+            "source": 8,
+            "target": 25,
+            "value": 79669
+        },
+        {
+            "source": 8,
+            "target": 26,
+            "value": 66500
+        },
+        {
+            "source": 8,
+            "target": 27,
+            "value": 101400
+        },
+        {
+            "source": 8,
+            "target": 28,
+            "value": 38159
+        },
+        {
+            "source": 9,
+            "target": 15,
+            "value": 1003521
+        },
+        {
+            "source": 9,
+            "target": 16,
+            "value": 1282180
+        },
+        {
+            "source": 9,
+            "target": 17,
+            "value": 472618
+        },
+        {
+            "source": 9,
+            "target": 18,
+            "value": 38315
+        },
+        {
+            "source": 9,
+            "target": 19,
+            "value": 30160
+        },
+        {
+            "source": 9,
+            "target": 20,
+            "value": 48030
+        },
+        {
+            "source": 9,
+            "target": 21,
+            "value": 7940
+        },
+        {
+            "source": 9,
+            "target": 22,
+            "value": 11825
+        },
+        {
+            "source": 9,
+            "target": 23,
+            "value": 111070
+        },
+        {
+            "source": 9,
+            "target": 24,
+            "value": 6811
+        },
+        {
+            "source": 9,
+            "target": 25,
+            "value": 39090
+        },
+        {
+            "source": 9,
+            "target": 26,
+            "value": 18890
+        },
+        {
+            "source": 9,
+            "target": 27,
+            "value": 51845
+        },
+        {
+            "source": 9,
+            "target": 28,
+            "value": 4345
+        },
+        {
+            "source": 10,
+            "target": 15,
+            "value": 404850
+        },
+        {
+            "source": 10,
+            "target": 16,
+            "value": 1376222
+        },
+        {
+            "source": 10,
+            "target": 17,
+            "value": 454150
+        },
+        {
+            "source": 10,
+            "target": 18,
+            "value": 114750
+        },
+        {
+            "source": 10,
+            "target": 19,
+            "value": 21000
+        },
+        {
+            "source": 10,
+            "target": 20,
+            "value": 40000
+        },
+        {
+            "source": 10,
+            "target": 21,
+            "value": 104500
+        },
+        {
+            "source": 10,
+            "target": 22,
+            "value": 40750
+        },
+        {
+            "source": 10,
+            "target": 23,
+            "value": 75200
+        },
+        {
+            "source": 10,
+            "target": 24,
+            "value": 45000
+        },
+        {
+            "source": 10,
+            "target": 25,
+            "value": 15000
+        },
+        {
+            "source": 10,
+            "target": 26,
+            "value": 70000
+        },
+        {
+            "source": 10,
+            "target": 28,
+            "value": 25000
+        },
+        {
+            "source": 11,
+            "target": 15,
+            "value": 701050
+        },
+        {
+            "source": 11,
+            "target": 16,
+            "value": 185950
+        },
+        {
+            "source": 11,
+            "target": 17,
+            "value": 378800
+        },
+        {
+            "source": 11,
+            "target": 18,
+            "value": 96000
+        },
+        {
+            "source": 11,
+            "target": 19,
+            "value": 116550
+        },
+        {
+            "source": 11,
+            "target": 20,
+            "value": 91000
+        },
+        {
+            "source": 11,
+            "target": 21,
+            "value": 81240
+        },
+        {
+            "source": 11,
+            "target": 24,
+            "value": 22700
+        },
+        {
+            "source": 11,
+            "target": 26,
+            "value": 298000
+        },
+        {
+            "source": 11,
+            "target": 27,
+            "value": 20000
+        },
+        {
+            "source": 11,
+            "target": 28,
+            "value": 104000
+        },
+        {
+            "source": 12,
+            "target": 15,
+            "value": 509505
+        },
+        {
+            "source": 12,
+            "target": 16,
+            "value": 326842
+        },
+        {
+            "source": 12,
+            "target": 17,
+            "value": 373470
+        },
+        {
+            "source": 12,
+            "target": 18,
+            "value": 98845
+        },
+        {
+            "source": 12,
+            "target": 19,
+            "value": 80920
+        },
+        {
+            "source": 12,
+            "target": 20,
+            "value": 11800
+        },
+        {
+            "source": 12,
+            "target": 21,
+            "value": 2500
+        },
+        {
+            "source": 12,
+            "target": 22,
+            "value": 16500
+        },
+        {
+            "source": 12,
+            "target": 23,
+            "value": 8700
+        },
+        {
+            "source": 12,
+            "target": 24,
+            "value": 24300
+        },
+        {
+            "source": 12,
+            "target": 28,
+            "value": 4130
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "value": 349000
+        },
+        {
+            "source": 13,
+            "target": 16,
+            "value": 367000
+        },
+        {
+            "source": 13,
+            "target": 17,
+            "value": 150000
+        },
+        {
+            "source": 13,
+            "target": 18,
+            "value": 42000
+        },
+        {
+            "source": 13,
+            "target": 19,
+            "value": 43000
+        },
+        {
+            "source": 13,
+            "target": 20,
+            "value": 3000
+        },
+        {
+            "source": 13,
+            "target": 21,
+            "value": 27000
+        },
+        {
+            "source": 13,
+            "target": 22,
+            "value": 1000
+        },
+        {
+            "source": 13,
+            "target": 23,
+            "value": 42000
+        },
+        {
+            "source": 13,
+            "target": 24,
+            "value": 500
+        },
+        {
+            "source": 13,
+            "target": 27,
+            "value": 1000
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "value": 85000
+        }
+]
+}

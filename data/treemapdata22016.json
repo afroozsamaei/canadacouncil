@@ -1,0 +1,2404 @@
+{
+    "name": "Total Investments",
+    "fullname": "Total Investments",
+    "size": 145728318,
+    "children": [
+        {
+            "name": "Music",
+            "fullname": "Music",
+            "size": 28484371,
+            "children": [
+                {
+                    "fullname": "Ontario",
+                    "name": "ON",
+                    "size": 10063568,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 8830585
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1232983
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Quebec",
+                    "name": "QC",
+                    "size": 7668511,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 6685784
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 982727
+                        }
+                     ]
+                },
+                {
+                    "fullname": "British Columbia",
+                    "name": "BC",
+                    "size": 4642530,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 4241630
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 400900
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Alberta",
+                    "name": "AB",
+                    "size": 2626543,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 2495643
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 130900
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Manitoba",
+                    "name": "MB",
+                    "size": 1584070,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 1449420
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 134650
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Nova Scotia",
+                    "name": "NS",
+                    "size": 863938,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 846196
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 17742
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Foreign",
+                    "name": "Frgn",
+                    "size": 348620,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 246220
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 102400
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Saskatchewan",
+                    "name": "SK",
+                    "size": 326390,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 318290
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 8100
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Newfoundland",
+                    "name": "NL",
+                    "size": 145142,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 124757
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 20385
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Prince Edward Island",
+                    "name": "PE",
+                    "size": 90115,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 56115
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 34000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "New Brunswick",
+                    "name": "NB",
+                    "size": 85044,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 74644
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 10400
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Yukon",
+                    "name": "YT",
+                    "size": 30000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 18000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 12000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Nunavut",
+                    "name": "NU",
+                    "size": 7500,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 7500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Northwest Territories",
+                    "name": "NT",
+                    "size": 2400,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 2400
+                        }
+                     ]
+                }
+            ]
+        },
+        {
+            "name": "Theatre",
+            "fullname": "Theatre",
+            "size": 27282309,
+            "children": [
+                {
+                    "fullname": "Quebec",
+                    "name": "QC",
+                    "size": 9048471,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 8834346
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 214125
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Ontario",
+                    "name": "ON",
+                    "size": 8922980,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 8634380
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 288600
+                        }
+                     ]
+                },
+                {
+                    "fullname": "British Columbia",
+                    "name": "BC",
+                    "size": 3077165,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 2916065
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 161100
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Alberta",
+                    "name": "AB",
+                    "size": 2081175,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 2033200
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 47975
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Nova Scotia",
+                    "name": "NS",
+                    "size": 1104100,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 1072600
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 31500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Manitoba",
+                    "name": "MB",
+                    "size": 1007967,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 983467
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 24500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Saskatchewan",
+                    "name": "SK",
+                    "size": 786906,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 769906
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 17000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "New Brunswick",
+                    "name": "NB",
+                    "size": 562310,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 532310
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 30000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Newfoundland",
+                    "name": "NL",
+                    "size": 516300,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 516300
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Yukon",
+                    "name": "YT",
+                    "size": 92155,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 92155
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Foreign",
+                    "name": "Frgn",
+                    "size": 63780,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 62030
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1750
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Prince Edward Island",
+                    "name": "PE",
+                    "size": 19000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 19000
+                        }
+                     ]
+                }
+
+            ]
+        },
+        {
+            "name": "Writing",
+            "fullname": "Writing and Publishing",
+            "size": 24627689,
+            "children": [
+                {
+                    "fullname": "Quebec",
+                    "name": "QC",
+                    "size": 9333074,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 8220174
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1112900
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Ontario",
+                    "name": "ON",
+                    "size": 7830348,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 6372567
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1457781
+                        }
+                     ]
+                },
+                {
+                    "fullname": "British Columbia",
+                    "name": "BC",
+                    "size": 3351197,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 2363647
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 987550
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Manitoba",
+                    "name": "MB",
+                    "size": 792630,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 735630
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 57000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Nova Scotia",
+                    "name": "NS",
+                    "size": 690400,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 544400
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 146000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Alberta",
+                    "name": "AB",
+                    "size": 630065,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 414565
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 215500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Foreign",
+                    "name": "Frgn",
+                    "size": 532600,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 352100
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 180500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "New Brunswick",
+                    "name": "NB",
+                    "size": 499100,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 420100
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 79000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Saskatchewan",
+                    "name": "SK",
+                    "size": 482200,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 386700
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 95500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Newfoundland",
+                    "name": "NL",
+                    "size": 321975,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 284475
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 37500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Nunavut",
+                    "name": "NU",
+                    "size": 55400,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 55400
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Prince Edward Island",
+                    "name": "PE",
+                    "size": 48400,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 45900
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 2500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Yukon",
+                    "name": "YT",
+                    "size": 39600,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 31500
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 8100
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Northwest Territories",
+                    "name": "NT",
+                    "size": 20700,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 13700
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 7000
+                        }
+                     ]
+                }
+
+            ]
+        },
+        {
+            "name": "Visual",
+            "fullname": "Visual Arts",
+            "size": 21537450,
+            "children": [
+                {
+                    "fullname": "Ontario",
+                    "name": "ON",
+                    "size": 6910300,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 4753150
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 2157150
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Quebec",
+                    "name": "QC",
+                    "size": 5513550,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 4081200
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1432350
+                        }
+                     ]
+                },
+                {
+                    "fullname": "British Columbia",
+                    "name": "BC",
+                    "size": 3693850,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 2499550
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1194300
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Alberta",
+                    "name": "AB",
+                    "size": 1366800,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 1057350
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 309450
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Saskatchewan",
+                    "name": "SK",
+                    "size": 1170900,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 964900
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 206000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Manitoba",
+                    "name": "MB",
+                    "size": 838650,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 611150
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 227500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Nova Scotia",
+                    "name": "NS",
+                    "size": 645500,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 539700
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 105800
+                        }
+                     ]
+                },
+                {
+                    "fullname": "New Brunswick",
+                    "name": "NB",
+                    "size": 566250,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 465150
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 101100
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Foreign",
+                    "name": "Frgn",
+                    "size": 338250,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 248250
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 90000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Prince Edward Island",
+                    "name": "PE",
+                    "size": 208000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 208000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Newfoundland",
+                    "name": "NL",
+                    "size": 202400,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 160900
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 41500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Yukon",
+                    "name": "YT",
+                    "size": 83000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 83000
+                        }
+                     ]
+                }
+
+            ]
+        },
+        {
+            "name": "Dance",
+            "fullname": "Dance",
+            "size": 18627876,
+            "children": [
+                {
+                    "fullname": "Quebec",
+                    "name": "QC",
+                    "size": 7113667,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 6615907
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 497760
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Ontario",
+                    "name": "ON",
+                    "size": 6158039,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 5857085
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 300954
+                        }
+                     ]
+                },
+                {
+                    "fullname": "British Columbia",
+                    "name": "BC",
+                    "size": 2795470,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 2496840
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 298630
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Manitoba",
+                    "name": "MB",
+                    "size": 1250500,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 1226000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 24500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Alberta",
+                    "name": "AB",
+                    "size": 795985,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 739185
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 56800
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Nova Scotia",
+                    "name": "NS",
+                    "size": 257565,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 212300
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 45265
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Newfoundland",
+                    "name": "NL",
+                    "size": 108000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 61000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 47000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "New Brunswick",
+                    "name": "NB",
+                    "size": 81000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 73000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 8000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Prince Edward Island",
+                    "name": "PE",
+                    "size": 62000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 40000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 22000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Foreign",
+                    "name": "Frgn",
+                    "size": 3850,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 3850
+                        }
+                     ]
+                },
+
+                {
+                    "fullname": "Yukon",
+                    "name": "YT",
+                    "size": 1800,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1800
+                        }
+                     ]
+                }
+
+            ]
+        },
+        {
+            "name": "Media",
+            "fullname": "Media Arts",
+            "size": 14592259,
+            "children": [
+                {
+                    "fullname": "Ontario",
+                    "name": "ON",
+                    "size": 4966669,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 2883793
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 2082876
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Quebec",
+                    "name": "QC",
+                    "size": 4767567,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 2983117
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1784450
+                        }
+                     ]
+                },
+                {
+                    "fullname": "British Columbia",
+                    "name": "BC",
+                    "size": 1616048,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 1217448
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 398600
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Manitoba",
+                    "name": "MB",
+                    "size": 668267,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 493767
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 174500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Nova Scotia",
+                    "name": "NS",
+                    "size": 630464,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 346964
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 283500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Alberta",
+                    "name": "AB",
+                    "size": 532179,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 485679
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 46500
+                        }
+                     ]
+                },
+
+                {
+                    "fullname": "Saskatchewan",
+                    "name": "SK",
+                    "size": 379476,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 251476
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 128000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Foreign",
+                    "name": "Frgn",
+                    "size": 302200,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 242200
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 60000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "New Brunswick",
+                    "name": "NB",
+                    "size": 235099,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 150099
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 85000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Newfoundland",
+                    "name": "NL",
+                    "size": 208562,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 148562
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 60000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Yukon",
+                    "name": "YT",
+                    "size": 101400,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 98900
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 2500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Prince Edward Island",
+                    "name": "PE",
+                    "size": 79669,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 79669
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Nunavut",
+                    "name": "NU",
+                    "size": 66500,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 65000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Northwest Territories",
+                    "name": "NT",
+                    "size": 38159,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 38159
+                        }
+                     ]
+                }
+            ]
+        },
+        {
+            "name": "Audience",
+            "fullname": "Audience & Market Development",
+            "size": 14592259,
+            "children": [
+                {
+                    "fullname": "Quebec",
+                    "name": "QC",
+                    "size": 1282180,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 1217650
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 64530
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Ontario",
+                    "name": "ON",
+                    "size": 1003521,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 924996
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 78525
+                        }
+                     ]
+                },
+                {
+                    "fullname": "British Columbia",
+                    "name": "BC",
+                    "size": 472618,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 457168
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 15450
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Foreign",
+                    "name": "Frgn",
+                    "size": 111070,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 109370
+                        },
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1700
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Yukon",
+                    "name": "YT",
+                    "size": 51845,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 44245
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 7600
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Nova Scotia",
+                    "name": "NS",
+                    "size": 48030,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 47080
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 950
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Prince Edward Island",
+                    "name": "PE",
+                    "size": 39090,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 36845
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 2245
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Alberta",
+                    "name": "AB",
+                    "size": 38315,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 27160
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 11155
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Manitoba",
+                    "name": "MB",
+                    "size": 30160,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 24310
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 5850
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Nunavut",
+                    "name": "NU",
+                    "size": 18890,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 18890
+                        }
+                     ]
+                },
+                {
+                    "fullname": "New Brunswick",
+                    "name": "NB",
+                    "size": 11825,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 11825
+                        }
+                     ]
+                },
+
+                {
+                    "fullname": "Saskatchewan",
+                    "name": "SK",
+                    "size": 7940,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 7240
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 700
+                        }
+                     ]
+                },
+
+
+                {
+                    "fullname": "Newfoundland",
+                    "name": "NL",
+                    "size": 6811,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 6811
+                        }
+                     ]
+                },
+
+
+
+                {
+                    "fullname": "Northwest Territories",
+                    "name": "NT",
+                    "size": 4345,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 4345
+                        }
+                     ]
+                }
+            ]
+        },
+        {
+            "name": "Inter-Art",
+            "fullname": "Inter-Arts Office",
+            "size": 2786422,
+            "children": [
+                {
+                    "fullname": "Quebec",
+                    "name": "QC",
+                    "size": 1376222,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 1181900
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 194322
+                        }
+                     ]
+                },
+
+                {
+                    "fullname": "British Columbia",
+                    "name": "BC",
+                    "size": 454150,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 409500
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 44650
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Ontario",
+                    "name": "ON",
+                    "size": 404850,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 308400
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 96450
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Alberta",
+                    "name": "AB",
+                    "size": 114750,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 70500
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 44250
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Saskatchewan",
+                    "name": "SK",
+                    "size": 104500,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 103000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1500
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Foreign",
+                    "name": "Frgn",
+                    "size": 75200,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 75200
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Nunavut",
+                    "name": "NU",
+                    "size": 70000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 70000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Newfoundland",
+                    "name": "NL",
+                    "size": 45000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 45000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "New Brunswick",
+                    "name": "NB",
+                    "size": 40750,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 20750
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 20000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Nova Scotia",
+                    "name": "NS",
+                    "size": 40000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 35000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 5000
+                        }
+                     ]
+                },
+
+                {
+                    "fullname": "Northwest Territories",
+                    "name": "NT",
+                    "size": 25000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 25000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Manitoba",
+                    "name": "MB",
+                    "size": 21000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 21000
+                        }
+                     ]
+                },
+
+                {
+                    "fullname": "Prince Edward Island",
+                    "name": "PE",
+                    "size": 15000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 15000
+                        }
+                     ]
+                }
+            ]
+        },
+        {
+            "name": "Aborigin.",
+            "fullname": "Aboriginal Arts Office",
+            "size": 2095290,
+            "children": [
+                {
+                    "fullname": "Ontario",
+                    "name": "ON",
+                    "size": 701050,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 610450
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 90600
+                        }
+                     ]
+                },
+                {
+                    "fullname": "British Columbia",
+                    "name": "BC",
+                    "size": 378800,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 353000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 25800
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Nunavut",
+                    "name": "NU",
+                    "size": 298000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 298000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Quebec",
+                    "name": "QC",
+                    "size": 185950,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 181950
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 4000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Manitoba",
+                    "name": "MB",
+                    "size": 116550,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 74550
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 42000
+                        }
+
+                     ]
+                },
+                {
+                    "fullname": "Northwest Territories",
+                    "name": "NT",
+                    "size": 104000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 74000
+                        },
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 30000
+                        }
+                     ]
+                },
+
+                {
+                    "fullname": "Alberta",
+                    "name": "AB",
+                    "size": 96000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 90000
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 6000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Nova Scotia",
+                    "name": "NS",
+                    "size": 91000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 91000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Saskatchewan",
+                    "name": "SK",
+                    "size": 81240,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 81240
+                        }
+                     ]
+                },
+
+                {
+                    "fullname": "Newfoundland",
+                    "name": "NL",
+                    "size": 22700,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 22700
+                        }
+                     ]
+                },
+
+                {
+                    "fullname": "Yukon",
+                    "name": "YT",
+                    "size": 20000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 20000
+                        }
+                     ]
+                }
+            ]
+        },
+        {
+            "name": "Equity",
+            "fullname": "Equity Office",
+            "size": 1457512,
+            "children": [
+                {
+                    "fullname": "Ontario",
+                    "name": "ON",
+                    "size": 509505,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 257080
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 252425
+                        }
+                     ]
+                },
+                {
+                    "fullname": "British Columbia",
+                    "name": "BC",
+                    "size": 373470,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 191690
+                        },
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 181780
+                        }
+
+                     ]
+                },
+                {
+                    "fullname": "Quebec",
+                    "name": "QC",
+                    "size": 326842,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 197397
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 129445
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Alberta",
+                    "name": "AB",
+                    "size": 98845,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 56145
+                        },
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 42700
+                        }
+
+                     ]
+                },
+                {
+                    "fullname": "Manitoba",
+                    "name": "MB",
+                    "size": 80920,
+                    "children": [
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 44600
+                        },
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 36320
+                        }
+
+
+                     ]
+                },
+                {
+                    "fullname": "Newfoundland",
+                    "name": "NL",
+                    "size": 24300,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 24300
+                        }
+                     ]
+                },
+                {
+                    "fullname": "New Brunswick",
+                    "name": "NB",
+                    "size": 16500,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 16500
+                        }
+                     ]
+                },
+
+                {
+                    "fullname": "Nova Scotia",
+                    "name": "NS",
+                    "size": 11800,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 11800
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Foreign",
+                    "name": "Frgn",
+                    "size": 8700,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 8700
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Northwest Territories",
+                    "name": "NT",
+                    "size": 4130,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 4130
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Saskatchewan",
+                    "name": "SK",
+                    "size": 2500,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 2500
+                        }
+                     ]
+                }
+
+            ]
+        },
+        {
+            "name": "Prizes",
+            "fullname": "Prizes Section",
+            "size": 1025500,
+            "children": [
+                {
+                    "fullname": "Quebec",
+                    "name": "QC",
+                    "size": 367000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 336000
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 31000
+                        }
+
+                     ]
+                },
+                {
+                    "fullname": "Ontario",
+                    "name": "ON",
+                    "size": 349000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 321000
+                        },
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 28000
+                        }
+
+                     ]
+                },
+                {
+                    "fullname": "British Columbia",
+                    "name": "BC",
+                    "size": 150000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 100000
+                        },
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 50000
+                        }
+
+                     ]
+                },
+
+                {
+                    "fullname": "Manitoba",
+                    "name": "MB",
+                    "size": 43000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 25000
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 18000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Foreign",
+                    "name": "Frgn",
+                    "size": 42000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 39000
+                        },
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 3000
+                        }
+                     ]
+                },
+
+                {
+                    "fullname": "Alberta",
+                    "name": "AB",
+                    "size": 42000,
+                    "children": [
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 37000
+                        },
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 5000
+                        }
+
+                     ]
+                },
+                {
+                    "fullname": "Saskatchewan",
+                    "name": "SK",
+                    "size": 27000,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 27000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Nova Scotia",
+                    "name": "NS",
+                    "size": 3000,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 3000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Yukon",
+                    "name": "YT",
+                    "size": 1000,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "New Brunswick",
+                    "name": "NB",
+                    "size": 1000,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 1000
+                        }
+                     ]
+                },
+                {
+                    "fullname": "Newfoundland",
+                    "name": "NL",
+                    "size": 500,
+                    "children": [
+
+                        {
+                            "fullname": "Individuals",
+                            "name": "Indiv.",
+                            "size": 500
+                        }
+                     ]
+                }
+
+            ]
+        },
+        {
+            "name": "Granting",
+            "fullname": "Arts Granting Programs",
+            "size": 85000,
+            "children": [
+
+                {
+                    "fullname": "Ontario",
+                    "name": "ON",
+                    "size": 85000,
+                    "children": [
+
+                        {
+                            "fullname": "Organizations",
+                            "name": "Orgs.",
+                            "size": 85000
+                        }
+                     ]
+                }
+        ]
+    }
+  ]
+
+}
